@@ -9,7 +9,7 @@ $ pkg update && pkg upgrade
 
 $ pkg install git python
 
-$ git clone https://github.com/ImErrorX/ExWiFi_V1
+$ git clone https://github.com/FakeErrorX/ExWiFi_V1
 
 $ cd ExWiFi_V1
 
@@ -17,4 +17,4 @@ $ python V1.py
 ```
 # ExWiFi Repo
 
-https://github.com/ImErrorX/ExWiFi
+https://github.com/FakeErrorX/ExWiFi
