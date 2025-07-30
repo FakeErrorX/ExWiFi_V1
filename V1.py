@@ -18,7 +18,7 @@ Contact Me On Discord
 Discord:! ErrorX#0001 \n''')
 os.system("pkg install -y root-repo")
 os.system("pkg install -y git tsu python wpa-supplicant pixiewps iw")
-os.system("cd ..;git clone https://github.com/ImErrorX/ExWiFi")
+os.system("cd ..;git clone https://github.com/FakeErrorX/ExWiFi")
 
 os.system("cd ..;chmod +x ExWiFi/ErrorX.py")
 
